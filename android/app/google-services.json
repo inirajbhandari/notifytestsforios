@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348833046323",
+    "project_id": "notifytestingios",
+    "storage_bucket": "notifytestingios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348833046323:android:7fa03206244e45fa742846",
+        "android_client_info": {
+          "package_name": "com.softworica.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348833046323-4v9ohbvuli42t41rjn6qaj0j292iavg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrkIuv1IHGtTFChjZH2PdaIGS1YPc6Gx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348833046323-4v9ohbvuli42t41rjn6qaj0j292iavg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
